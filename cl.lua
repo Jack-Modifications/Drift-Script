@@ -3,7 +3,7 @@ local vehicleClassWhitelist = {0, 1, 2, 3, 4, 5, 6, 7, 9}
 
 local handleMods = {
 	{"fInitialDragCoeff", 90.22},
-	{"fDriveInertia", .31},
+	{"fDriveInertia", .33},
 	{"fSteeringLock", 22},
 	{"fTractionCurveMax", -1.1},
 	{"fTractionCurveMin", -.4},
